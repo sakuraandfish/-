@@ -1,0 +1,42 @@
+{
+	"Name": "月女神的纯洁之爱（迅捷）",
+	"CanSell": false,
+	"Description": "事出突然但我出轨的事暴露了所以不好意思我先撤退了！哎，不行？咿！阿尔忒弥斯小姐！呀啊——————月女神的纯洁之爱——！爱……爱是……沉重的……！",
+	"Category": "ArtisanGoods",
+	"CategoryTextOverride": "特殊",
+	"Edibility": -25,
+	"EdibleIsDrink": true,
+    "EdibleBuffs": {
+        "Farming": 0, //农业
+        "Fishing": 0, //钓鱼
+        "Mining": 0,  //挖矿
+        "Luck": 5,   //运气
+        "Foraging": 0, //觅食
+        "MaxStamina": 0, //最大耐力
+        "MagnetRadius": 200, //磁力
+        "Speed": 5, //速度
+        "Defense": 0, //防御
+        "Attack": 0, //攻击
+        "Duration": 3000 //持续时间
+	},
+	"Recipe": null,
+	"Price": 10,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+    "PurchasePrice": 10000,
+	"IsColored": false,
+	"NameLocalization": //翻译名称
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

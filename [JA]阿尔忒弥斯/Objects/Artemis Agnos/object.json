@@ -1,0 +1,42 @@
+{
+	"Name": "月女神的纯洁之爱（技能）",
+	"CanSell": false,
+	"Description": "向吾之宿命，月之女神祈愿。赐予肉体以力量，赐予精神以冷静。并且在此注定吾之命运吧。月女神的纯洁之爱。填充完毕，上！",
+	"Category": "ArtisanGoods",
+	"CategoryTextOverride": "特殊",
+	"Edibility": -25,
+	"EdibleIsDrink": true,
+    "EdibleBuffs": {
+        "Farming": 5, //农业
+        "Fishing": 5, //钓鱼
+        "Mining": 5,  //挖矿
+        "Luck": 0,   //运气
+        "Foraging": 5, //觅食
+        "MaxStamina": 0, //最大耐力
+        "MagnetRadius": 200, //磁力
+        "Speed": 0, //速度
+        "Defense": 0, //防御
+        "Attack": 0, //攻击
+        "Duration": 3000 //持续时间
+	},
+	"Recipe": null,
+	"Price": 10,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+    "PurchasePrice": 10000,
+	"IsColored": false,
+	"NameLocalization": //翻译名称
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

@@ -1,0 +1,42 @@
+{
+	"Name": "月女神的纯洁之爱（力量）",
+	"CanSell": false,
+	"Description": "阿尔忒弥斯，借你的力量给我吧。和你在一起的话，我就不会输。好，痛扁对手。月女神的纯洁之爱。勇气凌然，开始吧！",
+	"Category": "ArtisanGoods",
+	"CategoryTextOverride": "特殊",
+	"Edibility": -25,
+	"EdibleIsDrink": true,
+    "EdibleBuffs": {
+        "Farming": 0, //农业
+        "Fishing": 0, //钓鱼
+        "Mining": 0,  //挖矿
+        "Luck": 0,   //运气
+        "Foraging": 0, //觅食
+        "MaxStamina": 0, //最大耐力
+        "MagnetRadius": 200, //磁力
+        "Speed": 0, //速度
+        "Defense": 10, //防御
+        "Attack": 10, //攻击
+        "Duration": 3000 //持续时间
+	},
+	"Recipe": null,
+	"Price": 10,
+	"CanPurchase": true,
+	"PurchaseFrom": "Gus",
+    "PurchasePrice": 10000,
+	"IsColored": false,
+	"NameLocalization": //翻译名称
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

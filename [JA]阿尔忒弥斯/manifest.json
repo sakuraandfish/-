@@ -1,0 +1,12 @@
+{
+	"Name": "[JA] 阿尔忒弥斯",
+    "Author": "落樱之鱼",
+    "Version": "1.1.0",
+    "MinimumApiVersion": "3.0.0",
+    "Description": "添加阿尔忒弥斯相关物品",
+    "UniqueID": "LYZY.JA.Artemis",
+	"UpdateKeys": [ "Nexus:???" ],
+    "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+    },
+}

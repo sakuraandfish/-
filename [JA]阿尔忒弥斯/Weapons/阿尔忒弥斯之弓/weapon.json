@@ -1,0 +1,21 @@
+{
+	"Name": "阿尔忒弥斯之弓",
+	"Description": "阿尔忒弥斯的纯净之弓，弓兵是近战不是很正常吗。",
+	"Type": "sword",
+    "MinimumDamage": "0",
+	"MaximumDamage": "500",
+	"Knockback": "1",
+	"Speed": "1",
+	"Accuracy": "0",
+	"Defense": "1",
+	"MineDropMinimumLevel": "100",
+	"MineDropVar": "21",
+	"ExtraSwingArea": "2",
+	"CritChance": "0.04",
+	"CritMultiplier": "2",
+	"CanSell": true,
+	"CanPurchase": true,
+	"PurchasePrice": "500000",
+	"PurchaseFrom": "Krobus",
+	//"PurchaseRequirements": "/b 120"
+}
